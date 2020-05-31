@@ -72,6 +72,14 @@ p {
   text-decoration: none;
 }
 
+.header-list {
+  color: #fff !important;
+  font-weight: bold;
+  &:hover {
+    color: silver !important;
+  }
+}
+
 /* デバッグウインドウ */
 
 .debug_dump {
